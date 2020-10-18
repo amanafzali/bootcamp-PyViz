@@ -1,1 +1,1 @@
-# bootcamp-PyViz
+# Bootcamp-PyViz
